@@ -8,3 +8,4 @@
 - https://mathworld.wolfram.com/FeigenbaumConstant.html 'Αρθρο σχετικά με το Feigenbaum Constant
 - https://www.youtube.com/watch?v=ovJcsL7vyrk
 - https://www.youtube.com/watch?v=gaOKAtlukNM
+- https://www.youtube.com/results?search_query=this+equation+will+change+how+you+can+see+the+world+
